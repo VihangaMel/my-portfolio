@@ -13,9 +13,13 @@ function NavBar() {
   return (
     <div className="flex justify-between items-center w-full h-20 text-white fixed bg-gray-800">
       <div>
-        <h1 className="text-xl ml-3 md:text-3xl">VihangaMel</h1>
+        <h1 className="text-xl ml-3 md:text-3xl cursor-pointer">
+          <Link to="home" smooth duration={500}>
+            VihangaMel
+          </Link>
+        </h1>
       </div>
-      <ul className="hidden lg:flex text-3xl ">
+      <ul className="hidden lg:flex text-2xl ">
         {navItems.map(({ id, item }) => (
           <li
             key={id}

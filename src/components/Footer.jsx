@@ -5,10 +5,10 @@ function Footer() {
     <>
       <div className="bg-gray-700 max-w-full py-1 flex justify-center items-center">
         <div>
-          <p className="">&copy;</p>
+          <p>&copy;</p>
         </div>
         <div>
-          <p>&nbsp;All Rights Resetved.</p>
+          <p className="text-sm">&nbsp;All Rights Resetved.</p>
         </div>
       </div>
     </>

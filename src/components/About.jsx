@@ -21,7 +21,7 @@ function About() {
             development principles.
           </p>
           <br />
-          <p className="text-xl">
+          <p className="text-xl mb-20">
             From developing complex systems to crafting user-friendly websites,
             my projects encompass a diverse range of endeavors. I thrive in
             collaborative environments where I can contribute my skills in

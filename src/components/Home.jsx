@@ -7,8 +7,8 @@ function Home() {
   return (
     <div name="home" className=" h-screen w-full bg-gray-800">
       <div className="max-w-screen-xl mx-auto flex flex-col  justify-around h-full px-4 items-center md:flex-row">
-        <div className="flex flex-col justify-center  h-full">
-          <h2 className="text-5xl mt-44 md:text-7xl text-white">
+        <div className="flex flex-col justify-center  h-full w-full mx-auto md:ml-20">
+          <h2 className="text-5xl mt-44 md:text-5xl text-white">
             I'm a Vihanga Melindra
           </h2>
           <p className="text-gray-500 text-lg py-4 max-w-lg">
@@ -30,7 +30,7 @@ function Home() {
           <img
             src={HeroImg}
             alt="A programmer developing a progeam"
-            className="mx-auto  max-w-full mb-16"
+            className="mx-auto max-w-full mb-16"
           />
         </div>
       </div>
