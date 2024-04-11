@@ -8,7 +8,7 @@ function Footer() {
           <p>&copy;</p>
         </div>
         <div>
-          <p className="text-sm">&nbsp;All Rights Resetved.</p>
+          <p className="text-sm">&nbsp;All Rights Reserved.</p>
         </div>
       </div>
     </>

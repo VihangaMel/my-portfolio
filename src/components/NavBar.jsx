@@ -46,7 +46,7 @@ function NavBar() {
                 onClick={() => setNav(!nav)}
                 to={item}
                 smooth
-                duration={500}>
+                duration={100}>
                 {item}
               </Link>
             </li>
