@@ -9,7 +9,7 @@ function Home() {
       <div className="max-w-screen-xl mx-auto flex flex-col  justify-around h-full px-4 items-center md:flex-row">
         <div className="flex flex-col justify-center  h-full w-full mx-auto md:ml-20">
           <h2 className="text-5xl mt-44 md:text-5xl text-white">
-            I'm a Vihanga Melindra
+            I am Vihanga Melindra
           </h2>
           <p className="text-gray-500 text-lg py-4 max-w-lg">
             I am a student of University of Moratuwa studying Bachelor of
