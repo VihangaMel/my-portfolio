@@ -40,8 +40,9 @@ function SocialLinks() {
           Resume <BsFillPersonLinesFill size={25} />
         </>
       ),
-      href: "https://linkedin.com/in/vihangamel",
+      href: "/Vihanga_CV.pdf",
       style: "rounded-br-md",
+      download: true,
     },
   ];
   return (

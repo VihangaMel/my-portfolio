@@ -6,6 +6,7 @@ import c from "../assets/c.png";
 import html from "../assets/html.png";
 import java from "../assets/java.png";
 import js from "../assets/js.png";
+import wp from "../assets/wp.png";
 
 function Experience() {
   const logo = [
@@ -26,21 +27,26 @@ function Experience() {
     },
     {
       id: 4,
+      sorce: wp,
+      title: "WordPress",
+    },
+    {
+      id: 5,
       sorce: csharp,
       title: "CSharp",
     },
     {
-      id: 5,
+      id: 6,
       sorce: java,
       title: "JAVA",
     },
     {
-      id: 6,
+      id: 7,
       sorce: react,
       title: "REACT",
     },
     {
-      id: 7,
+      id: 8,
       sorce: c,
       title: "C",
     },
